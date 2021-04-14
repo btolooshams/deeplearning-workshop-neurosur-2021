@@ -1,7 +1,4 @@
-# Workshop Tutorials
-
-
-## Notebooks
+# Deep Learning Workshop Tutorials for Neurosur 2021
 
 ||Practice|Complete|
 | --- | --- | --- |
